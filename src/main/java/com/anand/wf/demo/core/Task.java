@@ -60,7 +60,6 @@ public class Task {
 	}
 
 	public Task find(String code) {
-
 		return find(code, this);
 	}
 
